@@ -23,3 +23,5 @@ X6=the geographic coordinate, longitude. (unit: degree)
 Y= house price of unit area (10000 New Taiwan Dollar/Ping, where Ping is a local unit, 1 Ping = 3.3 meter^2)
 
 The variable originally marked as Y was the dependent variable to be predicted.
+
+The datasets are both available on UCI Machine Learning repository.
